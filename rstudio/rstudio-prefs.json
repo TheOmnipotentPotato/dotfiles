@@ -1,0 +1,10 @@
+{
+    "initial_working_directory": "~",
+    "highlight_r_function_calls": true,
+    "rainbow_parentheses": true,
+    "posix_terminal_shell": "zsh",
+    "editor_theme": "catppuccin-frappe",
+    "text_rendering": "geometricPrecision",
+    "default_project_location": "/Users/julianickodemus/Coding/R/ipedsData/ipedsTablesRPKG",
+    "jobs_tab_visibility": "shown"
+}

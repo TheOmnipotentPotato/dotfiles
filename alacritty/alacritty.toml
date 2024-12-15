@@ -1,0 +1,25 @@
+
+general.import = [
+  # uncomment the flavour you want below:
+  #"~/.config/alacritty/catppuccin-latte.toml"
+   "~/.config/alacritty/catppuccin-frappe.toml"
+  # "~/.config/alacritty/catppuccin-macchiato.toml"
+  # "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[window]
+
+
+opacity = 0.8
+blur = true
+decorations = "Buttonless"
+startup_mode = "Fullscreen"
+option_as_alt = "Both"
+
+[font]
+#normal.family = "MesloLGS Nerd Font Mono"
+normal.family = "Hasklug Nerd Font"
+
+
+size = 12
+
